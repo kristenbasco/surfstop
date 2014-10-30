@@ -1,0 +1,10 @@
+
+.btn-primary:hover {
+color: white;
+background-color: #2554C7;
+border-color: white;
+}
+.btn:hover, .btn:focus {
+color: #333;
+text-decoration: none;
+}
